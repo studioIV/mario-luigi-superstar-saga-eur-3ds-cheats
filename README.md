@@ -19,11 +19,13 @@ The One Hit Kill code is for the main story battle system. It does not target Bo
 
 ## Installation (Luma3DS)
 
-1. Copy [`00040000001B9000.txt`](00040000001B9000.txt) to the SD card as:
+1. On the SD card, open `sd:/luma/titles/`.
+2. Create the folder `00040000001B9000` if it does not already exist.
+3. Copy [`cheats.txt`](cheats.txt) into that folder. The final path must be:
    `sd:/luma/titles/00040000001B9000/cheats.txt`
-2. Start the game.
-3. Open the Rosalina menu with `L + D-Pad Down + Select`.
-4. Choose **Cheats** and enable the desired code.
+4. Start the game.
+5. Open the Rosalina menu with `L + D-Pad Down + Select`.
+6. Choose **Cheats** and enable the desired code.
 
 Use **One Hit Kill OFF — Restore Original** before continuing without the One Hit Kill patch, or restart the game to restore the original code in memory.
 
